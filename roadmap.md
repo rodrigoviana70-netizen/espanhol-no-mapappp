@@ -1,0 +1,37 @@
+# Roadmap
+
+- [x] Manter somente as 9 provas sociais com foto
+- [x] Automatizar os dois carrosséis em sentidos opostos com arraste por toque
+- [x] Criar e aplicar imagens AVIF dimensionadas para exibição
+- [x] Adiar imagens e seções fora da primeira tela
+- [x] Reduzir animações e trabalho visual no mobile
+- [x] Preservar checkout, Meta Pixel, UTMify e demais rastreamentos
+- [x] Validar visual e toque no tamanho de celular
+- [x] Simplificar o hero e ligar o CTA principal ao checkout completo
+- [x] Adicionar loop, setas, indicadores e arraste aos dois carrosséis
+- [x] Melhorar comparação dos planos e destacar a oferta de R$ 19,90
+- [x] Atualizar o CTA fixo mobile com safe area e checkout direto
+- [x] Validar conversão, responsividade, desempenho e rastreamentos
+- [x] Refatorar identidade visual para preto, amarelo, branco e off-white
+- [x] Adicionar barra fixa com data atual confirmada
+- [x] Transformar carrosséis em movimento contínuo leve com pausa e swipe
+- [x] Redesenhar cards, bônus, oferta, garantia, etapas, FAQ e CTA final
+- [x] Adicionar CNPJ ao rodapé
+- [x] Manter notificações de compra ocultas sem eventos reais
+- [x] Validar visual, responsividade, links e rastreamentos após a refatoração
+- [x] Remover a barra fixa superior e atualizar selo e destaque da oferta
+- [x] Aplicar as cinco capas enviadas aos bônus com valor riscado e Grátis
+- [x] Refinar o carrossel infinito e o seletor de níveis no celular
+- [x] Adicionar aviso flutuante neutro sem simular compras ou alunos
+- [x] Validar os novos ajustes em celular e computador
+- [x] Restaurar a barra fixa com a data atual do visitante
+- [x] Exibir o conteúdo dos níveis somente após a escolha
+- [x] Atualizar os avisos abreviados e o intervalo de 45 segundos
+- [x] Corrigir o movimento contínuo e reduzir carrosséis e bônus
+- [x] Validar os ajustes em celular e computador
+- [x] Transformar mapas e depoimentos em esteiras infinitas contínuas
+- [x] Validar as esteiras em quatro larguras por pelo menos dois minutos
+- [x] Garantir o movimento da esteira mesmo em aparelhos com redução de animações ativa
+- [x] Compactar o hero sem alterar a identidade visual ou o conteúdo
+- [x] Adicionar CTA flutuante mobile com ocultação na seção de preços
+
